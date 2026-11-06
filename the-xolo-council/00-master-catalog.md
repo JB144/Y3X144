@@ -42,7 +42,7 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 | S3 | The Last Transmission | ChatGPT | Sci-fi | — | 6.5 | **CUT** | See the Cut list. |
 | A1 | Vessel of Companionship | ChatGPT | Ancient/Vintage | — | 6.6 | **CUT** | See the Cut list. |
 | A2 | Garden of Old Souls | ChatGPT | Ancient/Vintage | Approved concept | 7.1 | BENCH (seasonal) | Lost H2 to C07: same style, weaker dogs (long Greyhound-like legs, and the back dog is small and stiff). Its marigolds make it a natural **Día de Muertos / October** design, so bring it back for that season. |
-| A3 | The Companion's Bookplate | ChatGPT | Ancient/Vintage | Recommend approve with a copy change | 7.6 | KEEP | The most refined dog in the set. Spelling correct. **Copy clash:** "THE COMPANION" is also El Compañero's subtitle. Make the lower cartouche a personalized pet name ("EX LIBRIS · LUNA"), which also gives it a personalization product. The fine engraving is too delicate for fleece, so use it on mugs, prints and personalized ornaments. |
+| A3 | The Companion's Bookplate | ChatGPT | Ancient/Vintage | **Direction approved 2026-11-06** (personalized pet-name version) | 7.6 | KEEP | The most refined dog in the set. Spelling correct. **Copy clash:** "THE COMPANION" is also El Compañero's subtitle. Make the lower cartouche a personalized pet name ("EX LIBRIS · LUNA"), which also gives it a personalization product. The fine engraving is too delicate for fleece, so use it on mugs, prints and personalized ornaments. |
 | K1 | Local Cryptid | ChatGPT | Cryptid | Not started | — | — | New design: no "CREATURE COMMITTEE" text |
 | K2 | Nightwatch Field Report | ChatGPT | Cryptid | Not started | — | — | New design: no "CREATURE COMMITTEE" text |
 | K3 | The Mothlight Hound | ChatGPT | Cryptid | Not started | — | — | New design: no "CREATURE COMMITTEE" text |
@@ -59,6 +59,20 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 | **3** | Spring, mostly wall art | C08 The Quiet Guide · C09 Xolo Study · S1 Eclipse Keeper · C03 Ancient Soul | Art-led designs needing the heaviest print prep |
 | Seasonal | October | A2 Garden of Old Souls | Día de Muertos |
 | Next to develop | — | K1–K3 cryptids | New designs, no "CREATURE COMMITTEE" text |
+
+## A3 Bookplate — personalization revision (APPROVED direction)
+
+- **Artwork:** an edit of the approved v1 that changes only the lower cartouche, leaving it **blank**. Everything else stays identical.
+- **Name:** added per order as live text (Printify personalization, or a Canva text layer) in an antique serif that matches "EX LIBRIS". That keeps every name crisp and correctly spelled, with no regeneration per order.
+- **Listing sample:** one mockup with "LUNA" to show the option.
+- **Rules:**
+  - Name length cap: 10 characters, all caps.
+  - Personalized items are not returnable or exchangeable.
+
+**Edit prompt (paste into the ChatGPT project, with companions-bookplate-v1-preview.png attached):**
+```
+Edit the supplied artwork with only one change: remove the words "THE COMPANION" from the lower cream cartouche, leaving the cartouche completely blank cream with its border and ornament intact. Preserve everything else exactly: EX LIBRIS lettering, the seated Xolo, oval medallion, botanical ornament, open book, bronze accents, colors, line weight, scale, positioning, canvas size and transparent background. Do not redraw or restyle anything. No replacement text.
+```
 
 ## Head-to-heads
 
