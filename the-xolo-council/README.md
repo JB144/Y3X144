@@ -26,4 +26,6 @@ Section for The Creature Committee Etsy shop, dedicated to the Xoloitzcuintli (M
 
 Research gap: live Etsy competitor review not done (etsy.com is blocked in the session network). Concepts are based on what owners care about, not on proven sales.
 
-See [`01-sweater-weather.md`](01-sweater-weather.md) for Stage 2.
+**Master list:** [`00-master-catalog.md`](00-master-catalog.md) holds every design from both sessions, with scoring and keep/cut decisions.
+
+See [`01-sweater-weather.md`](01-sweater-weather.md) for the Sweater Weather brief.
