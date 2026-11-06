@@ -162,7 +162,7 @@ Revise the reference Fair Isle knit pattern. Keep the same horizontal band layou
 
 Fix the dog silhouettes so they clearly read as a Xoloitzcuintli, not a Doberman, Pharaoh Hound or Greyhound:
 - Very large, wide, upright bat-shaped ears with rounded tips, about as tall as the head.
-- Short wedge-shaped head with a gentle stop. Not a long narrow snout.
+- Wedge-shaped head with a muzzle slightly longer than the skull and no pronounced stop (AKC wording). Not the extreme narrow snout of a Greyhound. (Corrected: v2 said "short head", which was wrong.)
 - Slightly arched neck, lean but not deep-chested body, straight back.
 - Long thin tail held low with a slight upward curve at the end. Not docked, not curled over the back.
 - Slender straight legs, standing side profile, all dogs facing the same direction within a band.
