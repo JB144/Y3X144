@@ -8,7 +8,7 @@ Launch plan approved by YEX on 2026-11-06. Nothing is published until YEX approv
 |---|---|---|---|---|---|
 | 1 | C10 Wrapped for Winter | Recolor the scarf | ✅ **v3 APPROVED by YEX 2026-11-06.** Single cream stripe at the neck; cream-cranberry-cream near the fringe, so no green-red-green. Transparent background, edge haze cleaned. File: `approved/c10-wrapped-for-winter/wrapped-for-winter-v3-clean.png` (1145×1374; needs an upscale). | Ornament, crewneck (18000), hoodie (18500), mug | ✅ Draft below |
 | 1b | XC-SW-02 Xolo Fair Isle | None | ✅ Approved | Blanket | ✅ Draft below |
-| 2 | C01 Department of Blanket Affairs | Remove scribble | ✅ v2 done 2026-11-06, waiting for YEX sign-off. Scribble gone, all four text lines intact, transparent background, edge haze cleaned. File: `approved/c01-blanket-affairs/blanket-affairs-v2-clean.png` (1254×1254; needs an upscale). | Tee, crewneck, hoodie, mug, ornament (simplified) | ✅ Draft below |
+| 2 | C01 Department of Blanket Affairs | Remove scribble | ✅ **v2 APPROVED by YEX 2026-11-06.** Scribble gone, all four text lines intact, transparent background, edge haze cleaned. File: `approved/c01-blanket-affairs/blanket-affairs-v2-clean.png` (1254×1254; needs an upscale). | Tee, crewneck, hoodie, mug, ornament (simplified) | ✅ Draft below |
 | 3 | C05 Personal Space Committee | None. The minor leg and jeans issues stay as they are: an AI edit could redraw the dog, which is a bigger risk. | ✅ As approved | Tee, crewneck, mug | ✅ Draft below |
 | 4 | C02 Sun Patch Society | None | ✅ As approved | Tee, crewneck, mug, wall art | ✅ Draft below |
 
@@ -78,6 +78,19 @@ Xolos are famously devoted to their people and politely reserved with everyone e
 Members meet daily, wherever the window light lands. This mid-century design shows a contented Xolo stretched across a warm patch of sun, in ochre, espresso and cream. A quiet, sun-warmed tribute for Xolo owners. Xolo Chapter, The Creature Committee.
 
 **Tags:** xolo shirt · xoloitzcuintli · mexican hairless dog · retro dog shirt · xolo gift · xolo mom · xolo dad · sunbathing dog · hairless dog tee · xoloitzcuintle · mid century dog · dog lover tee · xolo owner gift
+
+## Printify blanks confirmed (2026-11-06)
+
+| Product | Blank | Decoration | Fulfillment |
+|---|---|---|---|
+| Mug | Ceramic Mug 11oz / 15oz | Dye sublimation | Printify Choice (from $3.75) |
+| Crewneck | Gildan 18000 Unisex Heavy Blend | DTG | Printify Choice |
+
+Notes:
+- **Mugs:** sublimation prints on a white mug, so the transparent areas show white. All Wave 1 designs have outlined or boxed lettering, so they read on white.
+- **Crewnecks:** Wrapped for Winter and Personal Space read best on dark or neutral shirt colors. Blanket Affairs and Sun Patch carry their own cream backgrounds, so they work on most colors.
+- **Printify Choice** routes each order to a provider automatically. Production times and holiday cutoffs vary by provider, so check Printify's holiday-shipping deadlines before promising Christmas delivery.
+- **Print-area pixel size:** take it from the Printify editor's upload screen. Don't guess.
 
 ## Needed from YEX
 1. Run the two edit prompts in ChatGPT and send me the results.
