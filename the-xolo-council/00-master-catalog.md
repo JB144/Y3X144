@@ -82,7 +82,10 @@ Edit the supplied artwork with only one change: remove the words "THE COMPANION"
 - **Products:** mug, ornament (simplified redraw), wall print, tee/18000.
 - **The original C07 ("THE COMPANION") stays** as the non-personalized listing.
 - **Still to fix on both versions:** the soft red halo around the top-corner flowers. Resolution is about 1.2k px, so it needs an upscale before print.
-- **A3 Bookplate edit:** still to be run on companions-bookplate-v1-preview.png.
+- **A3 Bookplate edit: done.** Blank-banner version saved in `approved/a3-companions-bookplate/`:
+  - `…-raw.png`: the file exactly as ChatGPT returned it, kept for reference.
+  - `…-clean.png`: **the one to use.** It has 101k almost-invisible pixels (under 12% opacity) removed. Many of them carried a hidden red/yellow tint that some viewers and print processes can show as a colored halo.
+  - Size is 1024×1535, so it needs an upscale before print.
 
 ## Head-to-heads
 
@@ -105,7 +108,8 @@ Edit the supplied artwork with only one change: remove the words "THE COMPANION"
 
 1. **Cream lettering.** Correction: C03, C04, C06 and C10 have a thick charcoal outline, so they stay readable on light products, just with less punch. Make a dark-fill version only if light-garment tests underperform. **C08 The Quiet Guide has no outline** and truly disappears on light backgrounds, so it must get a darker or outlined title.
 2. **Resolution.** The ChatGPT images are about 1,200px wide (El Compañero is 1164×1351). Printify apparel wants about 4500×5400px at 300dpi. Each approved design needs vectorizing or a high-quality upscale, then an artifact check, before it can be printed.
-3. **The coated Xolo looks like a Pharaoh Hound** (C06, and probably C09's coated figure). Fix this once and reuse the corrected coated head everywhere.
+3. **Stray haze pixels at the edges.** The ChatGPT files have a faint, near-transparent halo around the art, partly tinted red or yellow. Clean every approved file the same way as the A3 clean file before print prep.
+4. **The coated Xolo looks like a Pharaoh Hound** (C06, and probably C09's coated figure). Fix this once and reuse the corrected coated head everywhere.
 
 ## Open inputs
 
