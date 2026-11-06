@@ -33,7 +33,7 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 | C04 | Xolo Pronunciation Department | ChatGPT | Core | Approved concept | 7.6 | KEEP | All three lines spelled correctly. Strong gift and conversation piece. The dog's body runs long and Greyhound-like, so shorten the back slightly and add a little chest depth. Flat style, so the easiest design in the set to get print-ready. |
 | C05 | The Personal Space Committee | ChatGPT | Core | Approved concept | 8.4 | KEEP (borderline LEAD) | Text spelled correctly. The "Committee" joke fits the brand voice perfectly and the lean-on-human pose is very true to the breed. Fixes: the dog's rear leg and haunch run long, and the bottom of the human's jeans looks cut off. Dark text on cream banners reads well on every product color. Absorbs "Committee Officials". |
 | C06 | Same Soul. Different Coat. | ChatGPT | Core | Approved concept | 8.0 | KEEP | The most distinctive idea in the catalog. The coated dog reads as a Pharaoh Hound: needs a softer, rounder head and a slightly fuller short coat. Cream lettering. Absorbs "Coat & Size Variants". |
-| C07 | El Compañero — The Companion | ChatGPT | Core | Approved concept | 7.6 | KEEP | Source of the Botanical Relief Print style. Soft red halo on the top-corner flowers to clean up. |
+| C07 | El Compañero — The Companion | ChatGPT | Core | Approved concept + **personalized variant C07-P approved 2026-11-06** | 7.6 | KEEP | Source of the Botanical Relief Print style. Soft red halo on the top-corner flowers to clean up. |
 | C08 | The Quiet Guide | ChatGPT | Core | Approved concept | 7.5 | KEEP (wall art) | Best painting in the set. The title is very pale cream and almost invisible on light backgrounds. Heavy, full-bleed scene, so it suits wall art and dark garments only. Absorbs "Guardian of Mictlán". |
 | C09 | Xolo Study No. 01 | ChatGPT | Core | Approved concept | 7.4 | KEEP (wall art) | The most accurate anatomy in the set. Too detailed for small thumbnails and ornaments. "HAIRLESS & COATED" repeats the labels, so trim the footer to "MEXICO". Cream sticker outlines may print as halos. Absorbs "Modern Silhouette". |
 | C10 | Wrapped for Winter | ChatGPT | Core | Approved concept | 7.75 | KEEP (wins H1) | **Recolor the scarf:** the green-red-green stripe looks like a fashion-brand trademark stripe. Use pine, cream and cranberry in an uneven stripe pattern instead. Cream lettering. |
@@ -73,6 +73,16 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 ```
 Edit the supplied artwork with only one change: remove the words "THE COMPANION" from the lower cream cartouche, leaving the cartouche completely blank cream with its border and ornament intact. Preserve everything else exactly: EX LIBRIS lettering, the seated Xolo, oval medallion, botanical ornament, open book, bronze accents, colors, line weight, scale, positioning, canvas size and transparent background. Do not redraw or restyle anything. No replacement text.
 ```
+
+## C07-P El Compañero — personalized variant (APPROVED 2026-11-06)
+
+- **Artwork:** `approved/c07-el-companero/el-companero-personalized-blank-v1.png`. The lower cartouche is blank; everything else matches C07 v1.
+- **Name:** added per order as live text in the blank cartouche, in a bold hand-cut serif in indigo that matches "EL COMPAÑERO". Same setup as A3: 10-character cap, all caps, not returnable or exchangeable.
+- **Listing sample:** "LUNA".
+- **Products:** mug, ornament (simplified redraw), wall print, tee/18000.
+- **The original C07 ("THE COMPANION") stays** as the non-personalized listing.
+- **Still to fix on both versions:** the soft red halo around the top-corner flowers. Resolution is about 1.2k px, so it needs an upscale before print.
+- **A3 Bookplate edit:** still to be run on companions-bookplate-v1-preview.png.
 
 ## Head-to-heads
 
