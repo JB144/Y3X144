@@ -12,6 +12,7 @@ Section for The Creature Committee Etsy shop, dedicated to the Xoloitzcuintli (M
   2. **Committee Officials** (brand signature)
   3. **Guardian of Mictlán** (Día de Muertos and memorial ornament, sold all year)
   4. **Coat & Size Variants** (variant system applied across 1–3)
+- **Approved artwork:** XC-SW-02 v3 "Xolo Fair Isle" (Canva MAHaK8ojvDU), 2026-11-06
 - **Later tests:** Hairless Humor, Modern Silhouette
 - **Guardrails:**
   - No *Coco*/Dante or Disney/Pixar references.

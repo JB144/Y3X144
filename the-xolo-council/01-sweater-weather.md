@@ -184,3 +184,5 @@ No text, no logos. Square 1:1, high resolution.
 | XC-SW-01 v2 | MAHaKx3O4Fw | Text now sits inside a circle and the dog is centered. **But:** Canva added a thin ring border that wasn't asked for, which may print off-center on a real ornament. The text still hugs the ring, so the 8% margin wasn't met. | IMPROVED · REVISION REQUIRED (minor) |
 | XC-SW-02 v2 | MAHaK3JKu7I | Almost the same as v1. The reference image anchored the old silhouettes, and they still read as a Doberman or Pharaoh Hound. | REVISION REQUIRED: regenerate without the reference image, or swap the silhouettes in the Canva editor |
 | XC-SW-02 v3 (from scratch) | MAHaK8ojvDU | Much better. The dogs are larger with upright ears, a shorter head and a low curved tail, and read closer to a Xolo, though still a little Pharaoh Hound–like. The cream base changes the feel from v1. Cranberry is heavier than "accents only". Seams not verified. | IMPROVED · needs YEX review + 2×2 tile test |
+
+**2026-11-06: XC-SW-02 v3 (MAHaK8ojvDU) APPROVED by YEX.** Locked artwork for the blanket and mug wrap. Do not regenerate it. Composite it onto blank mockups only.
