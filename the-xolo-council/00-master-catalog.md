@@ -38,9 +38,9 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 | C09 | Xolo Study No. 01 | ChatGPT | Core | Approved concept | 7.4 | KEEP (wall art) | The most accurate anatomy in the set. Too detailed for small thumbnails and ornaments. "HAIRLESS & COATED" repeats the labels, so trim the footer to "MEXICO". Cream sticker outlines may print as halos. Absorbs "Modern Silhouette". |
 | C10 | Wrapped for Winter | ChatGPT | Core | Approved concept | 7.75 | KEEP (wins H1) | **Recolor the scarf:** the green-red-green stripe looks like a fashion-brand trademark stripe. Use pine, cream and cranberry in an uneven stripe pattern instead. Cream lettering. |
 | S1 | The Eclipse Keeper | ChatGPT | Sci-fi | Approved concept | — | — | |
-| S2 | Lunar Companion Bureau | ChatGPT | Sci-fi | Approved concept | — | — | |
-| S3 | The Last Transmission | ChatGPT | Sci-fi | Approved concept | — | — | Dark background; apparel version needs its own preparation |
-| A1 | Vessel of Companionship | ChatGPT | Ancient/Vintage | Approved concept | — | — | |
+| S2 | Lunar Companion Bureau | ChatGPT | Sci-fi | Approved concept | 7.9 | KEEP | Spelled correctly. A strong mid-century look that sells well. The folded blanket ties it back to the core blanket joke, and the Xolo reads clearly. Fixes: the orbit swoosh running behind the title adds clutter at mug and ornament size, and the textured moon surface needs checking at print size. |
+| S3 | The Last Transmission | ChatGPT | Sci-fi | — | 6.5 | **CUT** | See the Cut list. |
+| A1 | Vessel of Companionship | ChatGPT | Ancient/Vintage | — | 6.6 | **CUT** | See the Cut list. |
 | A2 | Garden of Old Souls | ChatGPT | Ancient/Vintage | Approved concept | — | — | **Head-to-head H2** |
 | A3 | The Companion's Bookplate | ChatGPT | Ancient/Vintage | **Pending approval** | — | — | |
 | K1 | Local Cryptid | ChatGPT | Cryptid | Not started | — | — | New design: no "CREATURE COMMITTEE" text |
@@ -56,14 +56,16 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 |---|---|---|---|
 | H1 | Holiday hero (ornament and sweater) | C10 Wrapped for Winter vs XC-SW-01 Sweater dog | **C10 wins.** It's higher resolution, matches the collection's illustration style, and is already approved. The sweater joke was more Xolo-specific, so its line could be reused as a C10 mug back-side caption if you want it. |
 | H2 | Botanical art-led panel | C07 El Compañero vs A2 Garden of Old Souls | Likely both stay if they own different products (C07 for apparel, A2 for wall art and blankets). Decide after scoring. |
-| H3 | Memorial / Día de Muertos | C08 The Quiet Guide vs A1 Vessel of Companionship | Pending |
-| H4 | Retro poster wall art | S1 Eclipse Keeper vs S2 Lunar Bureau vs S3 Last Transmission | Keep the best 1–2 |
+| H3 | Memorial / Día de Muertos | C08 The Quiet Guide vs A1 Vessel of Companionship | **C08 wins** (7.5 vs 6.6). |
+| H4 | Retro poster wall art | S1 Eclipse Keeper vs S2 Lunar Bureau vs S3 Last Transmission | S3 is cut. **S2 leads so far.** S1 is still unscored (image needed). |
 
 ## Cut list
 
 | ID | Design | Reason | Date |
 |---|---|---|---|
 | XC-SW-01 | Finally, a Reason for the Sweater | Lost H1 to Wrapped for Winter. Its style doesn't match the collection, it's a low-resolution Canva output, and it still had an unwanted ring border. | 2026-11-06 |
+| S3 | The Last Transmission | Scored 6.5, below the cut line. Beautiful painting, but nothing about it is specific to Xolo owners (it's a generic sci-fi dog). The solid dark poster can't be placed cleanly on apparel. The heavy chest and legs drift toward a Doberman or Great Dane build. It could return as a wall-art-only poster later. | 2026-11-06 |
+| A1 | Vessel of Companionship | Scored 6.6 and lost H3. The ceramic dog reads as a toy or piggy bank, not a West Mexican effigy. The cream title has a thin outline that washes out on white. The wide landscape layout fits tees and ornaments poorly. Could be redrawn later with a more faithful, researched effigy form. | 2026-11-06 |
 
 ## Problems that affect several designs
 
@@ -73,5 +75,5 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 
 ## Open inputs
 
-- Full-resolution PNGs still needed for S1–S3 and A1–A3. Scores are draft until YEX confirms them.
+- Full-resolution PNGs still needed for S1 Eclipse Keeper, A2 Garden of Old Souls and A3 Companion's Bookplate. Scores are draft until YEX confirms them.
 - Printify providers and prices. Price test ranges from the ChatGPT research: tee $25–30, 18000 $36–44, 18500 $42–50, mug $19–24, ornament $20–26, print $24–38.
