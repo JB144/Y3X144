@@ -138,3 +138,41 @@ Center the product in a safe zone so it survives Etsy's square thumbnail crop. C
 |---|---|---|---|
 | XC-SW-01 v1 | MAHaK5dQKMc | Text spelled correctly. Breed reads as a Xolo: bat ears, slate skin, lean build. Sweater and colors match the brief. **Issue:** the arched text runs close to the edges, so a circular ornament crop would clip it. Paws, ears and skin need a full-resolution check. | REVISION REQUIRED (ornament) · candidate for mug/sweater |
 | XC-SW-02 v1 | MAHaK2Puf3U | Fair Isle bands and colors are on-brand. **Issue:** the dog silhouettes look close to a Doberman or Pharaoh Hound. Seamless edges not verified. | REVISION REQUIRED |
+
+## I. Revision prompts v2 (Canva AI) — PROPOSED
+
+### XC-SW-01 v2 — ornament-safe version (use v1 MAHaK5dQKMc as reference image)
+```
+Revise the reference image. Keep the same Xoloitzcuintli dog, pose, smug expression, cable-knit cranberry and cream sweater with sage collar, gouache storybook style, snowfall and color palette.
+
+Change only the layout so it fits inside a circle for a round ornament:
+- Pull the arched text "FINALLY, A REASON FOR THE SWEATER" inward so the whole arc sits inside a centered circle that fills about 85% of the canvas width. Every letter must be at least 8% of the canvas away from the edge of that circle. Use a tighter, shorter arc, with slightly smaller lettering if needed.
+- Scale the dog down slightly and center it so the ears, tail and paws are fully inside the circle.
+- Place "The Xolo Council" in small script directly under the paws, inside the circle.
+- Keep the background plain cream all the way to the canvas edges, with nothing important in the corners.
+
+Breed accuracy: hairless smooth slate-grey skin, large upright bat-like ears, almond eyes, lean sighthound build, slender legs with neat oval paws and four toes each, small tuft of hair on top of head only.
+
+Text must be spelled exactly: "FINALLY, A REASON FOR THE SWEATER" and "The Xolo Council". No other text, logos or watermarks. Square 1:1.
+```
+
+### XC-SW-02 v2 — breed-accurate silhouettes, true seamless repeat (use v1 MAHaK2Puf3U as reference image)
+```
+Revise the reference Fair Isle knit pattern. Keep the same horizontal band layout, knit-stitch V texture, snowflakes, pine sprigs, dog bones and color palette (rusty blue, coffee brown, sage, cream, small cranberry accents).
+
+Fix the dog silhouettes so they clearly read as a Xoloitzcuintli, not a Doberman, Pharaoh Hound or Greyhound:
+- Very large, wide, upright bat-shaped ears with rounded tips, about as tall as the head.
+- Short wedge-shaped head with a gentle stop. Not a long narrow snout.
+- Slightly arched neck, lean but not deep-chested body, straight back.
+- Long thin tail held low with a slight upward curve at the end. Not docked, not curled over the back.
+- Slender straight legs, standing side profile, all dogs facing the same direction within a band.
+- Plain solid silhouette: no collar, no spots, no fur outline.
+
+Seamless repeat: the pattern must tile perfectly on all four edges. Bands must run edge to edge, and no motif may be cut off at the left/right or top/bottom borders. Treat the canvas as one repeat unit.
+
+No text, no logos. Square 1:1, high resolution.
+```
+
+### QA checks for v2
+- XC-SW-01: crop a circle in Canva. No letter, ear or paw should touch the circle edge.
+- XC-SW-02: tile 2×2 in Canva. No visible seams, and the ears should read as a Xolo at thumbnail size.
