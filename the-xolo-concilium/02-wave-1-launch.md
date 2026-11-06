@@ -8,7 +8,7 @@ Launch plan approved by YEX on 2026-11-06. Nothing is published until YEX approv
 |---|---|---|---|---|---|
 | 1 | C10 Wrapped for Winter | Recolor the scarf | ✅ **v3 APPROVED by YEX 2026-11-06.** Single cream stripe at the neck; cream-cranberry-cream near the fringe, so no green-red-green. Transparent background, edge haze cleaned. File: `approved/c10-wrapped-for-winter/wrapped-for-winter-v3-clean.png` (1145×1374; needs an upscale). | Ornament, crewneck (18000), hoodie (18500), mug | ✅ Draft below |
 | 1b | XC-SW-02 Xolo Fair Isle | None | ✅ Approved | Blanket | ✅ Draft below |
-| 2 | C01 Department of Blanket Affairs | Remove scribble | ⏳ Edit prompt ready | Tee, crewneck, hoodie, mug, ornament (simplified) | ✅ Draft below |
+| 2 | C01 Department of Blanket Affairs | Remove scribble | ✅ v2 done 2026-11-06, waiting for YEX sign-off. Scribble gone, all four text lines intact, transparent background, edge haze cleaned. File: `approved/c01-blanket-affairs/blanket-affairs-v2-clean.png` (1254×1254; needs an upscale). | Tee, crewneck, hoodie, mug, ornament (simplified) | ✅ Draft below |
 | 3 | C05 Personal Space Committee | None. The minor leg and jeans issues stay as they are: an AI edit could redraw the dog, which is a bigger risk. | ✅ As approved | Tee, crewneck, mug | ✅ Draft below |
 | 4 | C02 Sun Patch Society | None | ✅ As approved | Tee, crewneck, mug, wall art | ✅ Draft below |
 
