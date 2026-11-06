@@ -176,3 +176,10 @@ No text, no logos. Square 1:1, high resolution.
 ### QA checks for v2
 - XC-SW-01: crop a circle in Canva. No letter, ear or paw should touch the circle edge.
 - XC-SW-02: tile 2×2 in Canva. No visible seams, and the ears should read as a Xolo at thumbnail size.
+
+## J. v2 results (Canva AI, 2026-11-06) — DRAFT
+
+| Design | Canva media ID | QA (from a 200px preview) | Status |
+|---|---|---|---|
+| XC-SW-01 v2 | MAHaKx3O4Fw | Text now sits inside a circle and the dog is centered. **But:** Canva added a thin ring border that wasn't asked for, which may print off-center on a real ornament. The text still hugs the ring, so the 8% margin wasn't met. | IMPROVED · REVISION REQUIRED (minor) |
+| XC-SW-02 v2 | MAHaK3JKu7I | Almost the same as v1. The reference image anchored the old silhouettes, and they still read as a Doberman or Pharaoh Hound. | REVISION REQUIRED: regenerate without the reference image, or swap the silhouettes in the Canva editor |
