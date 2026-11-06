@@ -131,3 +131,10 @@ Center the product in a safe zone so it survives Etsy's square thumbnail crop. C
 3. Personalized ornament: yes or no?
 4. Printify providers/models and prices for ornament, sweater, blanket and mug.
 5. Confirm each provider's holiday order cutoff.
+
+## H. Draft artwork log (Canva AI, 2026-11-06) — DRAFT, not approved
+
+| Design | Canva media ID | First QA (from a 200px preview only) | Status |
+|---|---|---|---|
+| XC-SW-01 v1 | MAHaK5dQKMc | Text spelled correctly. Breed reads as a Xolo: bat ears, slate skin, lean build. Sweater and colors match the brief. **Issue:** the arched text runs close to the edges, so a circular ornament crop would clip it. Paws, ears and skin need a full-resolution check. | REVISION REQUIRED (ornament) · candidate for mug/sweater |
+| XC-SW-02 v1 | MAHaK2Puf3U | Fair Isle bands and colors are on-brand. **Issue:** the dog silhouettes look close to a Doberman or Pharaoh Hound. Seamless edges not verified. | REVISION REQUIRED |
