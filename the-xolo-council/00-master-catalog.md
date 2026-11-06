@@ -31,7 +31,7 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 | C02 | The Sun Patch Society | ChatGPT | Core | Approved concept | 8.4 | KEEP | Borderline LEAD. Clean. Keeps the "CREATURE COMMITTEE" text. |
 | C03 | Ancient Soul. Modern Couch. (v2) | ChatGPT | Core | Approved concept | 7.5 | KEEP | Cream lettering: needs a light-garment ink version |
 | C04 | Xolo Pronunciation Department | ChatGPT | Core | Approved concept | 7.6 | KEEP | All three lines spelled correctly. Strong gift and conversation piece. The dog's body runs long and Greyhound-like, so shorten the back slightly and add a little chest depth. Flat style, so the easiest design in the set to get print-ready. |
-| C05 | The Personal Space Committee | ChatGPT | Core | Approved concept | — | — | Absorbs "Committee Officials" (Claude) |
+| C05 | The Personal Space Committee | ChatGPT | Core | Approved concept | 8.4 | KEEP (borderline LEAD) | Text spelled correctly. The "Committee" joke fits the brand voice perfectly and the lean-on-human pose is very true to the breed. Fixes: the dog's rear leg and haunch run long, and the bottom of the human's jeans looks cut off. Dark text on cream banners reads well on every product color. Absorbs "Committee Officials". |
 | C06 | Same Soul. Different Coat. | ChatGPT | Core | Approved concept | 8.0 | KEEP | The most distinctive idea in the catalog. The coated dog reads as a Pharaoh Hound: needs a softer, rounder head and a slightly fuller short coat. Cream lettering. Absorbs "Coat & Size Variants". |
 | C07 | El Compañero — The Companion | ChatGPT | Core | Approved concept | 7.6 | KEEP | Source of the Botanical Relief Print style. Soft red halo on the top-corner flowers to clean up. |
 | C08 | The Quiet Guide | ChatGPT | Core | Approved concept | 7.5 | KEEP (wall art) | Best painting in the set. The title is very pale cream and almost invisible on light backgrounds. Heavy, full-bleed scene, so it suits wall art and dark garments only. Absorbs "Guardian of Mictlán". |
@@ -73,5 +73,5 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 
 ## Open inputs
 
-- Full-resolution PNGs still needed for C05, S1–S3 and A1–A3. Scores are draft until YEX confirms them.
+- Full-resolution PNGs still needed for S1–S3 and A1–A3. Scores are draft until YEX confirms them.
 - Printify providers and prices. Price test ranges from the ChatGPT research: tee $25–30, 18000 $36–44, 18500 $42–50, mug $19–24, ornament $20–26, print $24–38.
