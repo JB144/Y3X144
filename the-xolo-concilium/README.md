@@ -1,4 +1,4 @@
-# The Xolo Council — Section Plan
+# The Xolo Concilium — Section Plan
 
 Section for The Creature Committee Etsy shop, dedicated to the Xoloitzcuintli (Mexican hairless dog).
 
@@ -6,7 +6,7 @@ Section for The Creature Committee Etsy shop, dedicated to the Xoloitzcuintli (M
 
 ## Stage 1 — Section concepts (LOCKED 2026-11-06)
 
-- **Section name:** The Xolo Council
+- **Section name:** The Xolo Concilium (Latin for "council"; renamed from "The Xolo Council" on 2026-11-06)
 - **Launch order:**
   1. **Sweater Weather** (holiday; time-sensitive)
   2. **Committee Officials** (brand signature)

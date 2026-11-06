@@ -1,4 +1,4 @@
-# The Xolo Council — Master Catalog
+# The Xolo Concilium — Master Catalog
 
 Everything from the ChatGPT session and this Claude session, combined in one list (merged 2026-11-06).
 

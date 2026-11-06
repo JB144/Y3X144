@@ -31,7 +31,7 @@
 ### XC-SW-01 — "Finally, a Reason for the Sweater"
 A standard-size hairless Xolo in a chunky cable-knit holiday sweater. It sits upright, smug and dignified, with light snowfall. Text sits in an arc in vintage serif lettering.
 - Main line: **FINALLY, A REASON FOR THE SWEATER**
-- Small line: *The Xolo Council*
+- Small line: *The Xolo Concilium*
 - Used on: ornament (circular crop, no small line), mug, sweater front.
 
 ### XC-SW-02 — "Xolo Fair Isle"
@@ -48,7 +48,7 @@ Subject: a standard-size Xoloitzcuintli (Mexican hairless dog), hairless, solid 
 
 Style: warm vintage storybook illustration, soft gouache texture, subtle grain. Palette limited to rusty blue, coffee brown, sage, cream, cranberry accent. Light snowfall in background, plain cream background behind the dog for easy printing.
 
-Text: arched above the dog in vintage serif capitals, spelled exactly: "FINALLY, A REASON FOR THE SWEATER". Below the dog, small script: "The Xolo Council".
+Text: arched above the dog in vintage serif capitals, spelled exactly: "FINALLY, A REASON FOR THE SWEATER". Below the dog, small script: "The Xolo Concilium".
 
 Output: square 1:1, centered composition with generous margins so it can be cropped to a circle for an ornament. High resolution, print-ready.
 
@@ -148,12 +148,12 @@ Revise the reference image. Keep the same Xoloitzcuintli dog, pose, smug express
 Change only the layout so it fits inside a circle for a round ornament:
 - Pull the arched text "FINALLY, A REASON FOR THE SWEATER" inward so the whole arc sits inside a centered circle that fills about 85% of the canvas width. Every letter must be at least 8% of the canvas away from the edge of that circle. Use a tighter, shorter arc, with slightly smaller lettering if needed.
 - Scale the dog down slightly and center it so the ears, tail and paws are fully inside the circle.
-- Place "The Xolo Council" in small script directly under the paws, inside the circle.
+- Place "The Xolo Concilium" in small script directly under the paws, inside the circle.
 - Keep the background plain cream all the way to the canvas edges, with nothing important in the corners.
 
 Breed accuracy: hairless smooth slate-grey skin, large upright bat-like ears, almond eyes, lean sighthound build, slender legs with neat oval paws and four toes each, small tuft of hair on top of head only.
 
-Text must be spelled exactly: "FINALLY, A REASON FOR THE SWEATER" and "The Xolo Council". No other text, logos or watermarks. Square 1:1.
+Text must be spelled exactly: "FINALLY, A REASON FOR THE SWEATER" and "The Xolo Concilium". No other text, logos or watermarks. Square 1:1.
 ```
 
 ### XC-SW-02 v2 — breed-accurate silhouettes, true seamless repeat (use v1 MAHaK2Puf3U as reference image)
