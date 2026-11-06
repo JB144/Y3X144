@@ -30,7 +30,7 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 | C01 | Department of Blanket Affairs | ChatGPT | Core | Approved concept | 8.5 | **LEAD** | Faint scribble on the blanket to clean up. Keeps the "CREATURE COMMITTEE" text. |
 | C02 | The Sun Patch Society | ChatGPT | Core | Approved concept | 8.4 | KEEP | Borderline LEAD. Clean. Keeps the "CREATURE COMMITTEE" text. |
 | C03 | Ancient Soul. Modern Couch. (v2) | ChatGPT | Core | Approved concept | 7.5 | KEEP | Cream lettering: needs a light-garment ink version |
-| C04 | Xolo Pronunciation Department | ChatGPT | Core | Approved concept | — | — | Image not yet seen in this session |
+| C04 | Xolo Pronunciation Department | ChatGPT | Core | Approved concept | 7.6 | KEEP | All three lines spelled correctly. Strong gift and conversation piece. The dog's body runs long and Greyhound-like, so shorten the back slightly and add a little chest depth. Flat style, so the easiest design in the set to get print-ready. |
 | C05 | The Personal Space Committee | ChatGPT | Core | Approved concept | — | — | Absorbs "Committee Officials" (Claude) |
 | C06 | Same Soul. Different Coat. | ChatGPT | Core | Approved concept | 8.0 | KEEP | The most distinctive idea in the catalog. The coated dog reads as a Pharaoh Hound: needs a softer, rounder head and a slightly fuller short coat. Cream lettering. Absorbs "Coat & Size Variants". |
 | C07 | El Compañero — The Companion | ChatGPT | Core | Approved concept | 7.6 | KEEP | Source of the Botanical Relief Print style. Soft red halo on the top-corner flowers to clean up. |
@@ -67,11 +67,11 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 
 ## Problems that affect several designs
 
-1. **Cream lettering** (C03, C06, C08, C10) disappears on white or light garments, mugs and ornaments. Every one of these needs a second version with dark ink (charcoal or espresso) for light products.
+1. **Cream lettering.** Correction: C03, C04, C06 and C10 have a thick charcoal outline, so they stay readable on light products, just with less punch. Make a dark-fill version only if light-garment tests underperform. **C08 The Quiet Guide has no outline** and truly disappears on light backgrounds, so it must get a darker or outlined title.
 2. **Resolution.** The ChatGPT images are about 1,200px wide (El Compañero is 1164×1351). Printify apparel wants about 4500×5400px at 300dpi. Each approved design needs vectorizing or a high-quality upscale, then an artifact check, before it can be printed.
 3. **The coated Xolo looks like a Pharaoh Hound** (C06, and probably C09's coated figure). Fix this once and reuse the corrected coated head everywhere.
 
 ## Open inputs
 
-- Full-resolution PNGs still needed for C04, C05, S1–S3 and A1–A3. Scores are draft until YEX confirms them.
+- Full-resolution PNGs still needed for C05, S1–S3 and A1–A3. Scores are draft until YEX confirms them.
 - Printify providers and prices. Price test ranges from the ChatGPT research: tee $25–30, 18000 $36–44, 18500 $42–50, mug $19–24, ornament $20–26, print $24–38.
