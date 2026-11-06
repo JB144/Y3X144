@@ -50,7 +50,7 @@ Everything from the ChatGPT session and this Claude session, combined in one lis
 | XC-SW-02 | Xolo Fair Isle (v3) | Claude/Canva | Pattern | **Approved artwork** | — | — | Only blanket/repeat pattern in the catalog; pairs with C01 and C10 |
 | — | Hairless Humor (text-led tees and mugs) | Claude | Humor | Concept only | — | BENCH | Develop only if the catalog lacks a cheap, fast test design |
 
-## Launch lineup (PROPOSED, 2026-11-06)
+## Launch lineup (APPROVED by YEX 2026-11-06; Wave 1 in progress, see 02-wave-1-launch.md)
 
 | Wave | Timing | Designs | Why |
 |---|---|---|---|
