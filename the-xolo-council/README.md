@@ -14,6 +14,10 @@ Section for The Creature Committee Etsy shop, dedicated to the Xoloitzcuintli (M
   4. **Coat & Size Variants** (variant system applied across 1–3)
 - **Approved artwork:** XC-SW-02 v3 "Xolo Fair Isle" (Canva MAHaK8ojvDU), 2026-11-06
 - **Later tests:** Hairless Humor, Modern Silhouette
+- **"CREATURE COMMITTEE" text on artwork (locked 2026-11-06):**
+  - Existing approved designs keep their current text as-is. For example, Blanket Affairs and Sun Patch Society keep it, and Ancient Soul v2 stays without it.
+  - **New designs do not add it** until YEX changes this rule.
+- **Reusable style:** Botanical Relief Print skill at `.claude/skills/botanical-relief-print/`, with the El Compañero reference image in `references/`.
 - **Guardrails:**
   - No *Coco*/Dante or Disney/Pixar references.
   - No "Naked and Afraid" title riffs.
